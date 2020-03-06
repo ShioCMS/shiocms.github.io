@@ -1,2 +1,2 @@
-# openshio.github.io
-OpenShio Web Site
+# shiocms.github.io
+Shio CMS Web Site
